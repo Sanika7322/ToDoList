@@ -1,2 +1,2 @@
 # ToDoList
-It is python project and It is a list that includes number of items. 
+It is python project and It has a list that includes number of items. 
